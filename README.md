@@ -1,8 +1,8 @@
-🏧 ATM Simulation – Python Console App
+## 🏧 ATM Simulation – Python Console App
 A simple command-line ATM simulation built with Python that mimics real-world banking operations like 
 deposits, withdrawals, balance checks, and transaction history.
 
-🚀 Features
+## 🚀 Features
 
 🔐 Secure PIN-based login
 💰 Deposit & Withdraw money
@@ -13,7 +13,7 @@ deposits, withdrawals, balance checks, and transaction history.
 ⚠️ Input validation – handles invalid/non-numeric input gracefully
 
 
-🛡️ Input Validation
+## 🛡️ Input Validation
 This project handles invalid input using try/except:
 python
 try:
@@ -25,7 +25,7 @@ except ValueError:
 If the user types letters or symbols instead of a number, the program shows a friendly error and re-prompts instead of crashing.
 
 
-🧪 Sample Accounts (for Testing)
+## 🧪 Sample Accounts (for Testing)
 Account_No   Name     PIN       Balance
 101          Sam      1433      ₹10,000
 102          Ram      1566      ₹10,000
